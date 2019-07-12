@@ -32,6 +32,7 @@ class App extends Component {
     super(props);
     this.state = {
       curatableGenomes: {
+        4558: 'sorghum',
         4577: 'B73',
         45770: 'W22',
         4577000: 'PH207'
