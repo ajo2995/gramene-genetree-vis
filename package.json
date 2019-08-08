@@ -14,7 +14,7 @@
     "bootstrap": "^3.3.7",
     "d3": "^3.5.14",
     "d3-scale": "^1.0.6",
-    "gramene-search-client": "^3.0.4",
+    "gramene-search-client": "^3.0.10",
     "gramene-trees-client": "^2.5.3",
     "interact.js": "^1.2.8",
     "is-email": "^1.0.0",
